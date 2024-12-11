@@ -81,7 +81,7 @@ This repository showcases projects focused on web scraping using Python's Beauti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-scraping-beautifulsoup.git
+   git clone https://github.com/jubiranka/Web-Scrapping-Using-Python---BeautifulSoup
    ```
 
 2. Install required dependencies:
@@ -91,7 +91,7 @@ This repository showcases projects focused on web scraping using Python's Beauti
 
 3. Run the script:
    ```bash
-   python scrape_amazon.py
+   python Web scrapping Amazon Data.ipynb
    ```
 
 ---
@@ -100,7 +100,7 @@ This repository showcases projects focused on web scraping using Python's Beauti
 
 - **Scraped Data Example**:
 
-  ![Sample Output](path-to-screenshot)
+  ![Sample Output](https://github.com/jubiranka/Web-Scrapping-Using-Python---BeautifulSoup/blob/main/Amazon%20Sony%20Headphones%20Scrapped%20Data.png)
 
 ---
 
