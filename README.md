@@ -83,6 +83,11 @@
    ```
 
 2. Install required dependencies:
+   Generate the `requirements.txt` file if it is not already included:
+   ```bash
+   pip freeze > requirements.txt
+   ```
+   Then install the dependencies:
    ```bash
    pip install -r requirements.txt
    ```
